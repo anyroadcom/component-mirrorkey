@@ -1,0 +1,7 @@
+{
+  "name": "mirrorkey",
+  "version": "1.2.0",
+  "description": "Simple utility to create a object literal which has the same values as the key names.",
+  "main": "mirrorkey.js",
+  "scripts": [ "mirrorkey.js" ]
+}
